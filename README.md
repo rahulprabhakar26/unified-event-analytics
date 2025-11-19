@@ -2,7 +2,7 @@
 
 A scalable backend API for web and mobile analytics that provides comprehensive event tracking, user analytics, and real-time reporting capabilities.
 
-> ** Database Update**: Now using **MySQL 8.0** for wider compatibility and easier deployment. See [CHANGELOG.md](CHANGELOG.md) for details.
+> 
 
 ##  Features
 
